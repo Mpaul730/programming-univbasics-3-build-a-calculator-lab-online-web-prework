@@ -15,7 +15,7 @@ product = 4 * 30
 end
 
 def modulo(num1, num2)
-remainder 34 % 5
+34 % 5
 end
 
 def square_root(num)
